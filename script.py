@@ -1,3 +1,5 @@
+# this script is only for academic purpose don't use it in any other purposes.
+
 import numpy as np
 
 
