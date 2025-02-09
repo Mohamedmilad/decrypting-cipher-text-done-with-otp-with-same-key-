@@ -1,3 +1,5 @@
+this script is only for academic purpose don't use it in any other purposes.
+
 We see that the xor result is in {4,5,0,1} but the space occurs if the result is 0 (space^space) or number (space xor letter) but 1 means that it's a letter xor another letter
 If it happens more than threshold time than that means that the possibility that this is a space is higher -> flag=True
 Means that [i][j] position is a guessed space so we xor it with the cipher (deduce parts of the key)
